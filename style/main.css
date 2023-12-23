@@ -3,3 +3,11 @@ body {
     color: #aa9;
 }
 
+#title {
+    text-align:center;
+}
+
+#presentation {
+    color: #AAAAAA;
+    margin-left: 50%;
+}
