@@ -7,13 +7,31 @@ body {
     text-align:center;
 }
 
+
 #presentation {
+    display: flex;
     color: #AAAAAA;
+
     margin-left:  30%;
     margin-right: 30%;
 }
 
+#pp {
+    border-radius: 25%;
 
+    margin-left:   auto;
+    margin-right:  auto;
+    margin-bottom: auto;
+    width:  100px;
+    heigth: 100px;
+}
+
+#presentation_core {
+    margin-left: 5%;
+
+    margin-top: auto;
+    margin-bottom: auto;
+}
 
 /* box */
 .box {
