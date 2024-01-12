@@ -9,15 +9,29 @@ body {
 
 #presentation {
     color: #AAAAAA;
-    margin-left:  25%;
-    margin-right: 25%;
+    margin-left:  30%;
+    margin-right: 30%;
 }
 
 
-#links {
+/* link tree */
+#ltree {
     color: #AAAAAA;
-    margin-left:  10%;
-    margin-right: 10%;
+    margin-left:  20%;
+    margin-right: 20%;
 }
 
+#ltree_core {
+    margin-left:  5%;
+    margin-right: 5%;
+}
+
+
+.ltree{
+    color: #ffccff;
+}
+
+.ltree:hover {
+    color: hotpink;
+}
 
